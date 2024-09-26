@@ -31,11 +31,6 @@ The dataset used for this project is sourced from the National Transportation Sa
    - Types of visualizations created (e.g., bar charts, line graphs).
    - Tools used for visualization https://public.tableau.com/app/profile/oliver.seki/viz/AircraftRiskanalysis/InteractiveRiskanalysisDashboard?publish=yes(e.g., Tableau, Matplotlib).
 
-## Recommendations
-1. *Recommendation 1*: Description of the first actionable insight based on the analysis.
-2. *Recommendation 2*: Description of the second actionable insight based on the analysis.
-3. *Recommendation 3*: Description of the third actionable insight based on the analysis.
-
 ## Conclusion
 - Summary of the project’s findings and their implications for the company's aviation strategy.
 - Importance of data-driven decision-making in entering the aviation industry.
